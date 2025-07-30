@@ -143,7 +143,7 @@ export default function HomePage() {
               BookBarter
             </span>
           </div>
-          <p className="text-gray-600">© 2024 BookBarter. Made with ❤️ for students, by students.</p>
+          <p className="text-gray-600">© 2025 BookBarter. Made with ❤️ for students, by students.</p>
         </div>
       </footer>
     </div>
